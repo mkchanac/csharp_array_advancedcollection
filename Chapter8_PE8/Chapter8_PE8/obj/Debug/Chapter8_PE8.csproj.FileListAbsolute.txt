@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\bin\Debug\Chapter8_PE8.exe.config
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\bin\Debug\Chapter8_PE8.exe
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\bin\Debug\Chapter8_PE8.pdb
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\obj\Debug\Chapter8_PE8.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\obj\Debug\Chapter8_PE8.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\obj\Debug\Chapter8_PE8.exe
+C:\Users\unite\source\repos\Chapter8_PE8\Chapter8_PE8\obj\Debug\Chapter8_PE8.pdb

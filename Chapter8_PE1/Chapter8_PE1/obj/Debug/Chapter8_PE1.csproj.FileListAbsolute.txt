@@ -1,0 +1,6 @@
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\bin\Debug\Chapter8_PE1.exe.config
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\bin\Debug\Chapter8_PE1.exe
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\bin\Debug\Chapter8_PE1.pdb
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\obj\Debug\Chapter8_PE1.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\obj\Debug\Chapter8_PE1.exe
+C:\Users\unite\source\repos\Chapter8_PE1\Chapter8_PE1\obj\Debug\Chapter8_PE1.pdb
